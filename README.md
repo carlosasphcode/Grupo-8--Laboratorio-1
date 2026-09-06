@@ -1,5 +1,4 @@
-# Grupo 8 - Laboratorio 1
-
+# Grupo 8 - Laboratorio 1 (Versión Main).
 ## Descripción del Proyecto
 Proyecto desarrollado en Java (NetBeans) para la gestión de productos.
 
