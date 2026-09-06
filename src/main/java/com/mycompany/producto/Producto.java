@@ -39,4 +39,4 @@ public class Producto {
         System.out.printf("Precio: S/ %.2f%n", precio);
         System.out.println("--------------------------------");
     }
-}
+}"// Cambio de prueba para Pull Request" 
